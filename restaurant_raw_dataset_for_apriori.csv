@@ -1,0 +1,1001 @@
+order_id,date,item_name,item_type,item_price,quantity,transaction_amount,transaction_type,received_by,time_of_sale
+ORD0001,2026-01-01,Burger,Main Course,149,1,386,Takeaway,Cashier,20:40
+ORD0001,2026-01-01,French Fries,Side,89,1,386,Takeaway,Cashier,20:40
+ORD0001,2026-01-01,Coca-Cola,Beverage,49,1,386,Takeaway,Cashier,20:40
+ORD0001,2026-01-01,Chocolate Brownie,Dessert,99,1,386,Takeaway,Cashier,20:40
+ORD0002,2026-01-02,Burger,Main Course,149,1,376,Dine-in,Waiter,15:45
+ORD0002,2026-01-02,French Fries,Side,89,1,376,Dine-in,Waiter,15:45
+ORD0002,2026-01-02,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,15:45
+ORD0002,2026-01-02,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,15:45
+ORD0003,2026-01-03,Burger,Main Course,149,1,396,Online,Online,18:00
+ORD0003,2026-01-03,French Fries,Side,89,1,396,Online,Online,18:00
+ORD0003,2026-01-03,Coca-Cola,Beverage,49,1,396,Online,Online,18:00
+ORD0003,2026-01-03,Onion Rings,Side,109,1,396,Online,Online,18:00
+ORD0004,2026-01-04,Burger,Main Course,149,1,317,Takeaway,Cashier,20:20
+ORD0004,2026-01-04,French Fries,Side,89,1,317,Takeaway,Cashier,20:20
+ORD0004,2026-01-04,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,20:20
+ORD0004,2026-01-04,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,20:20
+ORD0005,2026-01-05,Burger,Main Course,149,1,386,Dine-in,Cashier,19:15
+ORD0005,2026-01-05,French Fries,Side,89,1,386,Dine-in,Cashier,19:15
+ORD0005,2026-01-05,Coca-Cola,Beverage,49,1,386,Dine-in,Cashier,19:15
+ORD0005,2026-01-05,Chocolate Brownie,Dessert,99,1,386,Dine-in,Cashier,19:15
+ORD0006,2026-01-06,Burger,Main Course,149,1,376,Dine-in,Waiter,21:40
+ORD0006,2026-01-06,French Fries,Side,89,1,376,Dine-in,Waiter,21:40
+ORD0006,2026-01-06,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,21:40
+ORD0006,2026-01-06,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,21:40
+ORD0007,2026-01-07,Burger,Main Course,149,1,396,Dine-in,Waiter,19:20
+ORD0007,2026-01-07,French Fries,Side,89,1,396,Dine-in,Waiter,19:20
+ORD0007,2026-01-07,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,19:20
+ORD0007,2026-01-07,Onion Rings,Side,109,1,396,Dine-in,Waiter,19:20
+ORD0008,2026-01-08,Burger,Main Course,149,2,496,Dine-in,Waiter,15:30
+ORD0008,2026-01-08,French Fries,Side,89,1,496,Dine-in,Waiter,15:30
+ORD0008,2026-01-08,Coca-Cola,Beverage,49,1,496,Dine-in,Waiter,15:30
+ORD0008,2026-01-08,Mineral Water,Beverage,30,2,496,Dine-in,Waiter,15:30
+ORD0009,2026-01-09,Burger,Main Course,149,1,475,Takeaway,Cashier,15:00
+ORD0009,2026-01-09,French Fries,Side,89,2,475,Takeaway,Cashier,15:00
+ORD0009,2026-01-09,Coca-Cola,Beverage,49,1,475,Takeaway,Cashier,15:00
+ORD0009,2026-01-09,Chocolate Brownie,Dessert,99,1,475,Takeaway,Cashier,15:00
+ORD0010,2026-01-10,Burger,Main Course,149,1,514,Takeaway,Cashier,13:20
+ORD0010,2026-01-10,French Fries,Side,89,1,514,Takeaway,Cashier,13:20
+ORD0010,2026-01-10,Coca-Cola,Beverage,49,2,514,Takeaway,Cashier,13:20
+ORD0010,2026-01-10,Vanilla Ice Cream,Dessert,89,2,514,Takeaway,Cashier,13:20
+ORD0011,2026-01-11,Burger,Main Course,149,1,534,Dine-in,Waiter,18:45
+ORD0011,2026-01-11,French Fries,Side,89,2,534,Dine-in,Waiter,18:45
+ORD0011,2026-01-11,Coca-Cola,Beverage,49,2,534,Dine-in,Waiter,18:45
+ORD0011,2026-01-11,Onion Rings,Side,109,1,534,Dine-in,Waiter,18:45
+ORD0012,2026-01-12,Burger,Main Course,149,1,406,Online,Online,13:30
+ORD0012,2026-01-12,French Fries,Side,89,2,406,Online,Online,13:30
+ORD0012,2026-01-12,Coca-Cola,Beverage,49,1,406,Online,Online,13:30
+ORD0012,2026-01-12,Mineral Water,Beverage,30,1,406,Online,Online,13:30
+ORD0013,2026-01-13,Burger,Main Course,149,1,386,Online,Online,13:30
+ORD0013,2026-01-13,French Fries,Side,89,1,386,Online,Online,13:30
+ORD0013,2026-01-13,Coca-Cola,Beverage,49,1,386,Online,Online,13:30
+ORD0013,2026-01-13,Chocolate Brownie,Dessert,99,1,386,Online,Online,13:30
+ORD0014,2026-01-14,Burger,Main Course,149,1,376,Dine-in,Waiter,13:30
+ORD0014,2026-01-14,French Fries,Side,89,1,376,Dine-in,Waiter,13:30
+ORD0014,2026-01-14,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,13:30
+ORD0014,2026-01-14,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,13:30
+ORD0015,2026-01-15,Burger,Main Course,149,1,505,Takeaway,Cashier,20:20
+ORD0015,2026-01-15,French Fries,Side,89,1,505,Takeaway,Cashier,20:20
+ORD0015,2026-01-15,Coca-Cola,Beverage,49,1,505,Takeaway,Cashier,20:20
+ORD0015,2026-01-15,Onion Rings,Side,109,2,505,Takeaway,Cashier,20:20
+ORD0016,2026-01-16,Burger,Main Course,149,1,436,Online,Online,13:40
+ORD0016,2026-01-16,French Fries,Side,89,2,436,Online,Online,13:40
+ORD0016,2026-01-16,Coca-Cola,Beverage,49,1,436,Online,Online,13:40
+ORD0016,2026-01-16,Mineral Water,Beverage,30,2,436,Online,Online,13:40
+ORD0017,2026-01-17,Burger,Main Course,149,1,485,Takeaway,Cashier,19:00
+ORD0017,2026-01-17,French Fries,Side,89,1,485,Takeaway,Cashier,19:00
+ORD0017,2026-01-17,Coca-Cola,Beverage,49,1,485,Takeaway,Cashier,19:00
+ORD0017,2026-01-17,Chocolate Brownie,Dessert,99,2,485,Takeaway,Cashier,19:00
+ORD0018,2026-01-18,Burger,Main Course,149,1,465,Takeaway,Cashier,19:40
+ORD0018,2026-01-18,French Fries,Side,89,2,465,Takeaway,Cashier,19:40
+ORD0018,2026-01-18,Coca-Cola,Beverage,49,1,465,Takeaway,Cashier,19:40
+ORD0018,2026-01-18,Vanilla Ice Cream,Dessert,89,1,465,Takeaway,Cashier,19:40
+ORD0019,2026-01-19,Burger,Main Course,149,1,396,Dine-in,Waiter,19:00
+ORD0019,2026-01-19,French Fries,Side,89,1,396,Dine-in,Waiter,19:00
+ORD0019,2026-01-19,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,19:00
+ORD0019,2026-01-19,Onion Rings,Side,109,1,396,Dine-in,Waiter,19:00
+ORD0020,2026-01-20,Burger,Main Course,149,1,317,Dine-in,Cashier,20:15
+ORD0020,2026-01-20,French Fries,Side,89,1,317,Dine-in,Cashier,20:15
+ORD0020,2026-01-20,Coca-Cola,Beverage,49,1,317,Dine-in,Cashier,20:15
+ORD0020,2026-01-20,Mineral Water,Beverage,30,1,317,Dine-in,Cashier,20:15
+ORD0021,2026-01-21,Burger,Main Course,149,1,386,Online,Online,20:50
+ORD0021,2026-01-21,French Fries,Side,89,1,386,Online,Online,20:50
+ORD0021,2026-01-21,Coca-Cola,Beverage,49,1,386,Online,Online,20:50
+ORD0021,2026-01-21,Chocolate Brownie,Dessert,99,1,386,Online,Online,20:50
+ORD0022,2026-01-22,Burger,Main Course,149,1,554,Takeaway,Cashier,11:10
+ORD0022,2026-01-22,French Fries,Side,89,2,554,Takeaway,Cashier,11:10
+ORD0022,2026-01-22,Coca-Cola,Beverage,49,1,554,Takeaway,Cashier,11:10
+ORD0022,2026-01-22,Vanilla Ice Cream,Dessert,89,2,554,Takeaway,Cashier,11:10
+ORD0023,2026-01-23,Burger,Main Course,149,1,396,Dine-in,Waiter,18:20
+ORD0023,2026-01-23,French Fries,Side,89,1,396,Dine-in,Waiter,18:20
+ORD0023,2026-01-23,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,18:20
+ORD0023,2026-01-23,Onion Rings,Side,109,1,396,Dine-in,Waiter,18:20
+ORD0024,2026-01-24,Burger,Main Course,149,1,317,Online,Online,20:00
+ORD0024,2026-01-24,French Fries,Side,89,1,317,Online,Online,20:00
+ORD0024,2026-01-24,Coca-Cola,Beverage,49,1,317,Online,Online,20:00
+ORD0024,2026-01-24,Mineral Water,Beverage,30,1,317,Online,Online,20:00
+ORD0025,2026-01-25,Burger,Main Course,149,1,386,Takeaway,Cashier,20:45
+ORD0025,2026-01-25,French Fries,Side,89,1,386,Takeaway,Cashier,20:45
+ORD0025,2026-01-25,Coca-Cola,Beverage,49,1,386,Takeaway,Cashier,20:45
+ORD0025,2026-01-25,Chocolate Brownie,Dessert,99,1,386,Takeaway,Cashier,20:45
+ORD0026,2026-01-26,Burger,Main Course,149,1,376,Online,Online,20:00
+ORD0026,2026-01-26,French Fries,Side,89,1,376,Online,Online,20:00
+ORD0026,2026-01-26,Coca-Cola,Beverage,49,1,376,Online,Online,20:00
+ORD0026,2026-01-26,Vanilla Ice Cream,Dessert,89,1,376,Online,Online,20:00
+ORD0027,2026-01-27,Burger,Main Course,149,1,396,Dine-in,Waiter,21:30
+ORD0027,2026-01-27,French Fries,Side,89,1,396,Dine-in,Waiter,21:30
+ORD0027,2026-01-27,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,21:30
+ORD0027,2026-01-27,Onion Rings,Side,109,1,396,Dine-in,Waiter,21:30
+ORD0028,2026-01-28,Burger,Main Course,149,1,406,Takeaway,Cashier,19:15
+ORD0028,2026-01-28,French Fries,Side,89,2,406,Takeaway,Cashier,19:15
+ORD0028,2026-01-28,Coca-Cola,Beverage,49,1,406,Takeaway,Cashier,19:15
+ORD0028,2026-01-28,Mineral Water,Beverage,30,1,406,Takeaway,Cashier,19:15
+ORD0029,2026-01-29,Burger,Main Course,149,1,435,Dine-in,Cashier,18:45
+ORD0029,2026-01-29,French Fries,Side,89,1,435,Dine-in,Cashier,18:45
+ORD0029,2026-01-29,Coca-Cola,Beverage,49,2,435,Dine-in,Cashier,18:45
+ORD0029,2026-01-29,Chocolate Brownie,Dessert,99,1,435,Dine-in,Cashier,18:45
+ORD0030,2026-01-30,Burger,Main Course,149,2,525,Dine-in,Cashier,19:30
+ORD0030,2026-01-30,French Fries,Side,89,1,525,Dine-in,Cashier,19:30
+ORD0030,2026-01-30,Coca-Cola,Beverage,49,1,525,Dine-in,Cashier,19:30
+ORD0030,2026-01-30,Vanilla Ice Cream,Dessert,89,1,525,Dine-in,Cashier,19:30
+ORD0031,2026-01-31,Burger,Main Course,149,1,396,Takeaway,Cashier,20:45
+ORD0031,2026-01-31,French Fries,Side,89,1,396,Takeaway,Cashier,20:45
+ORD0031,2026-01-31,Coca-Cola,Beverage,49,1,396,Takeaway,Cashier,20:45
+ORD0031,2026-01-31,Onion Rings,Side,109,1,396,Takeaway,Cashier,20:45
+ORD0032,2026-02-01,Burger,Main Course,149,1,317,Dine-in,Waiter,19:20
+ORD0032,2026-02-01,French Fries,Side,89,1,317,Dine-in,Waiter,19:20
+ORD0032,2026-02-01,Coca-Cola,Beverage,49,1,317,Dine-in,Waiter,19:20
+ORD0032,2026-02-01,Mineral Water,Beverage,30,1,317,Dine-in,Waiter,19:20
+ORD0033,2026-02-02,Burger,Main Course,149,2,535,Dine-in,Cashier,15:10
+ORD0033,2026-02-02,French Fries,Side,89,1,535,Dine-in,Cashier,15:10
+ORD0033,2026-02-02,Coca-Cola,Beverage,49,1,535,Dine-in,Cashier,15:10
+ORD0033,2026-02-02,Chocolate Brownie,Dessert,99,1,535,Dine-in,Cashier,15:10
+ORD0034,2026-02-03,Burger,Main Course,149,1,376,Dine-in,Waiter,20:30
+ORD0034,2026-02-03,French Fries,Side,89,1,376,Dine-in,Waiter,20:30
+ORD0034,2026-02-03,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,20:30
+ORD0034,2026-02-03,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,20:30
+ORD0035,2026-02-04,Burger,Main Course,149,1,396,Dine-in,Cashier,15:20
+ORD0035,2026-02-04,French Fries,Side,89,1,396,Dine-in,Cashier,15:20
+ORD0035,2026-02-04,Coca-Cola,Beverage,49,1,396,Dine-in,Cashier,15:20
+ORD0035,2026-02-04,Onion Rings,Side,109,1,396,Dine-in,Cashier,15:20
+ORD0036,2026-02-05,Burger,Main Course,149,1,317,Online,Online,15:20
+ORD0036,2026-02-05,French Fries,Side,89,1,317,Online,Online,15:20
+ORD0036,2026-02-05,Coca-Cola,Beverage,49,1,317,Online,Online,15:20
+ORD0036,2026-02-05,Mineral Water,Beverage,30,1,317,Online,Online,15:20
+ORD0037,2026-02-06,Burger,Main Course,149,1,386,Dine-in,Cashier,18:30
+ORD0037,2026-02-06,French Fries,Side,89,1,386,Dine-in,Cashier,18:30
+ORD0037,2026-02-06,Coca-Cola,Beverage,49,1,386,Dine-in,Cashier,18:30
+ORD0037,2026-02-06,Chocolate Brownie,Dessert,99,1,386,Dine-in,Cashier,18:30
+ORD0038,2026-02-07,Burger,Main Course,149,1,376,Dine-in,Waiter,13:40
+ORD0038,2026-02-07,French Fries,Side,89,1,376,Dine-in,Waiter,13:40
+ORD0038,2026-02-07,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,13:40
+ORD0038,2026-02-07,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,13:40
+ORD0039,2026-02-08,Burger,Main Course,149,1,396,Online,Online,13:20
+ORD0039,2026-02-08,French Fries,Side,89,1,396,Online,Online,13:20
+ORD0039,2026-02-08,Coca-Cola,Beverage,49,1,396,Online,Online,13:20
+ORD0039,2026-02-08,Onion Rings,Side,109,1,396,Online,Online,13:20
+ORD0040,2026-02-09,Burger,Main Course,149,1,317,Takeaway,Cashier,20:10
+ORD0040,2026-02-09,French Fries,Side,89,1,317,Takeaway,Cashier,20:10
+ORD0040,2026-02-09,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,20:10
+ORD0040,2026-02-09,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,20:10
+ORD0041,2026-02-10,Burger,Main Course,149,1,386,Dine-in,Cashier,18:20
+ORD0041,2026-02-10,French Fries,Side,89,1,386,Dine-in,Cashier,18:20
+ORD0041,2026-02-10,Coca-Cola,Beverage,49,1,386,Dine-in,Cashier,18:20
+ORD0041,2026-02-10,Chocolate Brownie,Dessert,99,1,386,Dine-in,Cashier,18:20
+ORD0042,2026-02-11,Burger,Main Course,149,1,465,Dine-in,Waiter,18:50
+ORD0042,2026-02-11,French Fries,Side,89,2,465,Dine-in,Waiter,18:50
+ORD0042,2026-02-11,Coca-Cola,Beverage,49,1,465,Dine-in,Waiter,18:50
+ORD0042,2026-02-11,Vanilla Ice Cream,Dessert,89,1,465,Dine-in,Waiter,18:50
+ORD0043,2026-02-12,Burger,Main Course,149,1,396,Dine-in,Waiter,15:00
+ORD0043,2026-02-12,French Fries,Side,89,1,396,Dine-in,Waiter,15:00
+ORD0043,2026-02-12,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,15:00
+ORD0043,2026-02-12,Onion Rings,Side,109,1,396,Dine-in,Waiter,15:00
+ORD0044,2026-02-13,Burger,Main Course,149,1,317,Online,Online,19:30
+ORD0044,2026-02-13,French Fries,Side,89,1,317,Online,Online,19:30
+ORD0044,2026-02-13,Coca-Cola,Beverage,49,1,317,Online,Online,19:30
+ORD0044,2026-02-13,Mineral Water,Beverage,30,1,317,Online,Online,19:30
+ORD0045,2026-02-14,Burger,Main Course,149,1,475,Takeaway,Cashier,19:30
+ORD0045,2026-02-14,French Fries,Side,89,2,475,Takeaway,Cashier,19:30
+ORD0045,2026-02-14,Coca-Cola,Beverage,49,1,475,Takeaway,Cashier,19:30
+ORD0045,2026-02-14,Chocolate Brownie,Dessert,99,1,475,Takeaway,Cashier,19:30
+ORD0046,2026-02-15,Burger,Main Course,149,1,376,Takeaway,Cashier,21:20
+ORD0046,2026-02-15,French Fries,Side,89,1,376,Takeaway,Cashier,21:20
+ORD0046,2026-02-15,Coca-Cola,Beverage,49,1,376,Takeaway,Cashier,21:20
+ORD0046,2026-02-15,Vanilla Ice Cream,Dessert,89,1,376,Takeaway,Cashier,21:20
+ORD0047,2026-02-16,Burger,Main Course,149,1,396,Dine-in,Cashier,18:20
+ORD0047,2026-02-16,French Fries,Side,89,1,396,Dine-in,Cashier,18:20
+ORD0047,2026-02-16,Coca-Cola,Beverage,49,1,396,Dine-in,Cashier,18:20
+ORD0047,2026-02-16,Onion Rings,Side,109,1,396,Dine-in,Cashier,18:20
+ORD0048,2026-02-17,Burger,Main Course,149,1,317,Dine-in,Cashier,13:10
+ORD0048,2026-02-17,French Fries,Side,89,1,317,Dine-in,Cashier,13:10
+ORD0048,2026-02-17,Coca-Cola,Beverage,49,1,317,Dine-in,Cashier,13:10
+ORD0048,2026-02-17,Mineral Water,Beverage,30,1,317,Dine-in,Cashier,13:10
+ORD0049,2026-02-18,Burger,Main Course,149,1,485,Dine-in,Waiter,19:50
+ORD0049,2026-02-18,French Fries,Side,89,1,485,Dine-in,Waiter,19:50
+ORD0049,2026-02-18,Coca-Cola,Beverage,49,1,485,Dine-in,Waiter,19:50
+ORD0049,2026-02-18,Chocolate Brownie,Dessert,99,2,485,Dine-in,Waiter,19:50
+ORD0050,2026-02-19,Burger,Main Course,149,1,376,Dine-in,Waiter,13:20
+ORD0050,2026-02-19,French Fries,Side,89,1,376,Dine-in,Waiter,13:20
+ORD0050,2026-02-19,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,13:20
+ORD0050,2026-02-19,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,13:20
+ORD0051,2026-02-20,Burger,Main Course,149,1,396,Dine-in,Waiter,18:50
+ORD0051,2026-02-20,French Fries,Side,89,1,396,Dine-in,Waiter,18:50
+ORD0051,2026-02-20,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,18:50
+ORD0051,2026-02-20,Onion Rings,Side,109,1,396,Dine-in,Waiter,18:50
+ORD0052,2026-02-21,Burger,Main Course,149,1,347,Online,Online,13:50
+ORD0052,2026-02-21,French Fries,Side,89,1,347,Online,Online,13:50
+ORD0052,2026-02-21,Coca-Cola,Beverage,49,1,347,Online,Online,13:50
+ORD0052,2026-02-21,Mineral Water,Beverage,30,2,347,Online,Online,13:50
+ORD0053,2026-02-22,Burger,Main Course,149,1,386,Takeaway,Cashier,19:15
+ORD0053,2026-02-22,French Fries,Side,89,1,386,Takeaway,Cashier,19:15
+ORD0053,2026-02-22,Coca-Cola,Beverage,49,1,386,Takeaway,Cashier,19:15
+ORD0053,2026-02-22,Chocolate Brownie,Dessert,99,1,386,Takeaway,Cashier,19:15
+ORD0054,2026-02-23,Burger,Main Course,149,1,376,Dine-in,Waiter,20:45
+ORD0054,2026-02-23,French Fries,Side,89,1,376,Dine-in,Waiter,20:45
+ORD0054,2026-02-23,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,20:45
+ORD0054,2026-02-23,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,20:45
+ORD0055,2026-02-24,Burger,Main Course,149,1,396,Takeaway,Cashier,18:30
+ORD0055,2026-02-24,French Fries,Side,89,1,396,Takeaway,Cashier,18:30
+ORD0055,2026-02-24,Coca-Cola,Beverage,49,1,396,Takeaway,Cashier,18:30
+ORD0055,2026-02-24,Onion Rings,Side,109,1,396,Takeaway,Cashier,18:30
+ORD0056,2026-02-25,Burger,Main Course,149,1,317,Online,Online,13:40
+ORD0056,2026-02-25,French Fries,Side,89,1,317,Online,Online,13:40
+ORD0056,2026-02-25,Coca-Cola,Beverage,49,1,317,Online,Online,13:40
+ORD0056,2026-02-25,Mineral Water,Beverage,30,1,317,Online,Online,13:40
+ORD0057,2026-02-26,Burger,Main Course,149,1,386,Dine-in,Waiter,20:50
+ORD0057,2026-02-26,French Fries,Side,89,1,386,Dine-in,Waiter,20:50
+ORD0057,2026-02-26,Coca-Cola,Beverage,49,1,386,Dine-in,Waiter,20:50
+ORD0057,2026-02-26,Chocolate Brownie,Dessert,99,1,386,Dine-in,Waiter,20:50
+ORD0058,2026-02-27,Burger,Main Course,149,1,376,Dine-in,Waiter,15:30
+ORD0058,2026-02-27,French Fries,Side,89,1,376,Dine-in,Waiter,15:30
+ORD0058,2026-02-27,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,15:30
+ORD0058,2026-02-27,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,15:30
+ORD0059,2026-02-28,Burger,Main Course,149,1,396,Dine-in,Waiter,19:00
+ORD0059,2026-02-28,French Fries,Side,89,1,396,Dine-in,Waiter,19:00
+ORD0059,2026-02-28,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,19:00
+ORD0059,2026-02-28,Onion Rings,Side,109,1,396,Dine-in,Waiter,19:00
+ORD0060,2026-03-01,Burger,Main Course,149,1,317,Dine-in,Waiter,21:40
+ORD0060,2026-03-01,French Fries,Side,89,1,317,Dine-in,Waiter,21:40
+ORD0060,2026-03-01,Coca-Cola,Beverage,49,1,317,Dine-in,Waiter,21:40
+ORD0060,2026-03-01,Mineral Water,Beverage,30,1,317,Dine-in,Waiter,21:40
+ORD0061,2026-03-02,Burger,Main Course,149,1,386,Takeaway,Cashier,21:10
+ORD0061,2026-03-02,French Fries,Side,89,1,386,Takeaway,Cashier,21:10
+ORD0061,2026-03-02,Coca-Cola,Beverage,49,1,386,Takeaway,Cashier,21:10
+ORD0061,2026-03-02,Chocolate Brownie,Dessert,99,1,386,Takeaway,Cashier,21:10
+ORD0062,2026-03-03,Burger,Main Course,149,1,376,Dine-in,Waiter,21:15
+ORD0062,2026-03-03,French Fries,Side,89,1,376,Dine-in,Waiter,21:15
+ORD0062,2026-03-03,Coca-Cola,Beverage,49,1,376,Dine-in,Waiter,21:15
+ORD0062,2026-03-03,Vanilla Ice Cream,Dessert,89,1,376,Dine-in,Waiter,21:15
+ORD0063,2026-03-04,Burger,Main Course,149,1,445,Dine-in,Waiter,19:50
+ORD0063,2026-03-04,French Fries,Side,89,1,445,Dine-in,Waiter,19:50
+ORD0063,2026-03-04,Coca-Cola,Beverage,49,2,445,Dine-in,Waiter,19:50
+ORD0063,2026-03-04,Onion Rings,Side,109,1,445,Dine-in,Waiter,19:50
+ORD0064,2026-03-05,Burger,Main Course,149,1,317,Dine-in,Cashier,19:15
+ORD0064,2026-03-05,French Fries,Side,89,1,317,Dine-in,Cashier,19:15
+ORD0064,2026-03-05,Coca-Cola,Beverage,49,1,317,Dine-in,Cashier,19:15
+ORD0064,2026-03-05,Mineral Water,Beverage,30,1,317,Dine-in,Cashier,19:15
+ORD0065,2026-03-06,Burger,Main Course,149,1,386,Takeaway,Cashier,15:50
+ORD0065,2026-03-06,French Fries,Side,89,1,386,Takeaway,Cashier,15:50
+ORD0065,2026-03-06,Coca-Cola,Beverage,49,1,386,Takeaway,Cashier,15:50
+ORD0065,2026-03-06,Chocolate Brownie,Dessert,99,1,386,Takeaway,Cashier,15:50
+ORD0066,2026-03-07,Burger,Main Course,149,1,376,Takeaway,Cashier,21:20
+ORD0066,2026-03-07,French Fries,Side,89,1,376,Takeaway,Cashier,21:20
+ORD0066,2026-03-07,Coca-Cola,Beverage,49,1,376,Takeaway,Cashier,21:20
+ORD0066,2026-03-07,Vanilla Ice Cream,Dessert,89,1,376,Takeaway,Cashier,21:20
+ORD0067,2026-03-08,Burger,Main Course,149,1,534,Dine-in,Cashier,13:15
+ORD0067,2026-03-08,French Fries,Side,89,2,534,Dine-in,Cashier,13:15
+ORD0067,2026-03-08,Coca-Cola,Beverage,49,2,534,Dine-in,Cashier,13:15
+ORD0067,2026-03-08,Onion Rings,Side,109,1,534,Dine-in,Cashier,13:15
+ORD0068,2026-03-09,Burger,Main Course,149,1,317,Takeaway,Cashier,20:50
+ORD0068,2026-03-09,French Fries,Side,89,1,317,Takeaway,Cashier,20:50
+ORD0068,2026-03-09,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,20:50
+ORD0068,2026-03-09,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,20:50
+ORD0069,2026-03-10,Burger,Main Course,149,1,386,Online,Online,13:10
+ORD0069,2026-03-10,French Fries,Side,89,1,386,Online,Online,13:10
+ORD0069,2026-03-10,Coca-Cola,Beverage,49,1,386,Online,Online,13:10
+ORD0069,2026-03-10,Chocolate Brownie,Dessert,99,1,386,Online,Online,13:10
+ORD0070,2026-03-11,Burger,Main Course,149,1,465,Takeaway,Cashier,13:30
+ORD0070,2026-03-11,French Fries,Side,89,1,465,Takeaway,Cashier,13:30
+ORD0070,2026-03-11,Coca-Cola,Beverage,49,1,465,Takeaway,Cashier,13:30
+ORD0070,2026-03-11,Vanilla Ice Cream,Dessert,89,2,465,Takeaway,Cashier,13:30
+ORD0071,2026-03-12,Burger,Main Course,149,1,445,Online,Online,21:40
+ORD0071,2026-03-12,French Fries,Side,89,1,445,Online,Online,21:40
+ORD0071,2026-03-12,Coca-Cola,Beverage,49,2,445,Online,Online,21:40
+ORD0071,2026-03-12,Onion Rings,Side,109,1,445,Online,Online,21:40
+ORD0072,2026-03-13,Burger,Main Course,149,1,317,Takeaway,Cashier,21:45
+ORD0072,2026-03-13,French Fries,Side,89,1,317,Takeaway,Cashier,21:45
+ORD0072,2026-03-13,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,21:45
+ORD0072,2026-03-13,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,21:45
+ORD0073,2026-03-14,Burger,Main Course,149,1,475,Dine-in,Cashier,19:40
+ORD0073,2026-03-14,French Fries,Side,89,2,475,Dine-in,Cashier,19:40
+ORD0073,2026-03-14,Coca-Cola,Beverage,49,1,475,Dine-in,Cashier,19:40
+ORD0073,2026-03-14,Chocolate Brownie,Dessert,99,1,475,Dine-in,Cashier,19:40
+ORD0074,2026-03-15,Burger,Main Course,149,1,465,Dine-in,Waiter,13:10
+ORD0074,2026-03-15,French Fries,Side,89,2,465,Dine-in,Waiter,13:10
+ORD0074,2026-03-15,Coca-Cola,Beverage,49,1,465,Dine-in,Waiter,13:10
+ORD0074,2026-03-15,Vanilla Ice Cream,Dessert,89,1,465,Dine-in,Waiter,13:10
+ORD0075,2026-03-16,Burger,Main Course,149,1,396,Dine-in,Cashier,18:15
+ORD0075,2026-03-16,French Fries,Side,89,1,396,Dine-in,Cashier,18:15
+ORD0075,2026-03-16,Coca-Cola,Beverage,49,1,396,Dine-in,Cashier,18:15
+ORD0075,2026-03-16,Onion Rings,Side,109,1,396,Dine-in,Cashier,18:15
+ORD0076,2026-03-17,Burger,Main Course,149,1,406,Dine-in,Cashier,11:20
+ORD0076,2026-03-17,French Fries,Side,89,2,406,Dine-in,Cashier,11:20
+ORD0076,2026-03-17,Coca-Cola,Beverage,49,1,406,Dine-in,Cashier,11:20
+ORD0076,2026-03-17,Mineral Water,Beverage,30,1,406,Dine-in,Cashier,11:20
+ORD0077,2026-03-18,Burger,Main Course,149,1,386,Dine-in,Waiter,19:30
+ORD0077,2026-03-18,French Fries,Side,89,1,386,Dine-in,Waiter,19:30
+ORD0077,2026-03-18,Coca-Cola,Beverage,49,1,386,Dine-in,Waiter,19:30
+ORD0077,2026-03-18,Chocolate Brownie,Dessert,99,1,386,Dine-in,Waiter,19:30
+ORD0078,2026-03-19,Burger,Main Course,149,1,376,Online,Online,15:50
+ORD0078,2026-03-19,French Fries,Side,89,1,376,Online,Online,15:50
+ORD0078,2026-03-19,Coca-Cola,Beverage,49,1,376,Online,Online,15:50
+ORD0078,2026-03-19,Vanilla Ice Cream,Dessert,89,1,376,Online,Online,15:50
+ORD0079,2026-03-20,Burger,Main Course,149,1,396,Online,Online,18:40
+ORD0079,2026-03-20,French Fries,Side,89,1,396,Online,Online,18:40
+ORD0079,2026-03-20,Coca-Cola,Beverage,49,1,396,Online,Online,18:40
+ORD0079,2026-03-20,Onion Rings,Side,109,1,396,Online,Online,18:40
+ORD0080,2026-03-21,Burger,Main Course,149,2,466,Takeaway,Cashier,19:40
+ORD0080,2026-03-21,French Fries,Side,89,1,466,Takeaway,Cashier,19:40
+ORD0080,2026-03-21,Coca-Cola,Beverage,49,1,466,Takeaway,Cashier,19:40
+ORD0080,2026-03-21,Mineral Water,Beverage,30,1,466,Takeaway,Cashier,19:40
+ORD0081,2026-03-22,Burger,Main Course,149,1,435,Dine-in,Waiter,19:45
+ORD0081,2026-03-22,French Fries,Side,89,1,435,Dine-in,Waiter,19:45
+ORD0081,2026-03-22,Coca-Cola,Beverage,49,2,435,Dine-in,Waiter,19:45
+ORD0081,2026-03-22,Chocolate Brownie,Dessert,99,1,435,Dine-in,Waiter,19:45
+ORD0082,2026-03-23,Burger,Main Course,149,1,376,Online,Online,20:30
+ORD0082,2026-03-23,French Fries,Side,89,1,376,Online,Online,20:30
+ORD0082,2026-03-23,Coca-Cola,Beverage,49,1,376,Online,Online,20:30
+ORD0082,2026-03-23,Vanilla Ice Cream,Dessert,89,1,376,Online,Online,20:30
+ORD0083,2026-03-24,Burger,Main Course,149,1,396,Dine-in,Cashier,21:40
+ORD0083,2026-03-24,French Fries,Side,89,1,396,Dine-in,Cashier,21:40
+ORD0083,2026-03-24,Coca-Cola,Beverage,49,1,396,Dine-in,Cashier,21:40
+ORD0083,2026-03-24,Onion Rings,Side,109,1,396,Dine-in,Cashier,21:40
+ORD0084,2026-03-25,Burger,Main Course,149,1,317,Takeaway,Cashier,11:40
+ORD0084,2026-03-25,French Fries,Side,89,1,317,Takeaway,Cashier,11:40
+ORD0084,2026-03-25,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,11:40
+ORD0084,2026-03-25,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,11:40
+ORD0085,2026-03-26,Burger,Main Course,149,1,386,Dine-in,Cashier,19:20
+ORD0085,2026-03-26,French Fries,Side,89,1,386,Dine-in,Cashier,19:20
+ORD0085,2026-03-26,Coca-Cola,Beverage,49,1,386,Dine-in,Cashier,19:20
+ORD0085,2026-03-26,Chocolate Brownie,Dessert,99,1,386,Dine-in,Cashier,19:20
+ORD0086,2026-03-27,Burger,Main Course,149,2,614,Takeaway,Cashier,19:30
+ORD0086,2026-03-27,French Fries,Side,89,2,614,Takeaway,Cashier,19:30
+ORD0086,2026-03-27,Coca-Cola,Beverage,49,1,614,Takeaway,Cashier,19:30
+ORD0086,2026-03-27,Vanilla Ice Cream,Dessert,89,1,614,Takeaway,Cashier,19:30
+ORD0087,2026-03-28,Burger,Main Course,149,1,396,Takeaway,Cashier,19:30
+ORD0087,2026-03-28,French Fries,Side,89,1,396,Takeaway,Cashier,19:30
+ORD0087,2026-03-28,Coca-Cola,Beverage,49,1,396,Takeaway,Cashier,19:30
+ORD0087,2026-03-28,Onion Rings,Side,109,1,396,Takeaway,Cashier,19:30
+ORD0088,2026-03-29,Burger,Main Course,149,1,317,Takeaway,Cashier,15:15
+ORD0088,2026-03-29,French Fries,Side,89,1,317,Takeaway,Cashier,15:15
+ORD0088,2026-03-29,Coca-Cola,Beverage,49,1,317,Takeaway,Cashier,15:15
+ORD0088,2026-03-29,Mineral Water,Beverage,30,1,317,Takeaway,Cashier,15:15
+ORD0089,2026-03-30,Burger,Main Course,149,1,386,Online,Online,19:00
+ORD0089,2026-03-30,French Fries,Side,89,1,386,Online,Online,19:00
+ORD0089,2026-03-30,Coca-Cola,Beverage,49,1,386,Online,Online,19:00
+ORD0089,2026-03-30,Chocolate Brownie,Dessert,99,1,386,Online,Online,19:00
+ORD0090,2026-03-31,Burger,Main Course,149,1,376,Takeaway,Cashier,13:40
+ORD0090,2026-03-31,French Fries,Side,89,1,376,Takeaway,Cashier,13:40
+ORD0090,2026-03-31,Coca-Cola,Beverage,49,1,376,Takeaway,Cashier,13:40
+ORD0090,2026-03-31,Vanilla Ice Cream,Dessert,89,1,376,Takeaway,Cashier,13:40
+ORD0091,2026-01-01,Burger,Main Course,149,1,396,Dine-in,Waiter,13:30
+ORD0091,2026-01-01,French Fries,Side,89,1,396,Dine-in,Waiter,13:30
+ORD0091,2026-01-01,Coca-Cola,Beverage,49,1,396,Dine-in,Waiter,13:30
+ORD0091,2026-01-01,Onion Rings,Side,109,1,396,Dine-in,Waiter,13:30
+ORD0092,2026-01-02,Burger,Main Course,149,1,406,Online,Online,19:45
+ORD0092,2026-01-02,French Fries,Side,89,2,406,Online,Online,19:45
+ORD0092,2026-01-02,Coca-Cola,Beverage,49,1,406,Online,Online,19:45
+ORD0092,2026-01-02,Mineral Water,Beverage,30,1,406,Online,Online,19:45
+ORD0093,2026-01-03,Burger,Main Course,149,1,574,Takeaway,Cashier,13:15
+ORD0093,2026-01-03,French Fries,Side,89,2,574,Takeaway,Cashier,13:15
+ORD0093,2026-01-03,Coca-Cola,Beverage,49,1,574,Takeaway,Cashier,13:15
+ORD0093,2026-01-03,Chocolate Brownie,Dessert,99,2,574,Takeaway,Cashier,13:15
+ORD0094,2026-01-04,Burger,Main Course,149,2,525,Dine-in,Waiter,13:50
+ORD0094,2026-01-04,French Fries,Side,89,1,525,Dine-in,Waiter,13:50
+ORD0094,2026-01-04,Coca-Cola,Beverage,49,1,525,Dine-in,Waiter,13:50
+ORD0094,2026-01-04,Vanilla Ice Cream,Dessert,89,1,525,Dine-in,Waiter,13:50
+ORD0095,2026-01-05,Burger,Main Course,149,1,505,Online,Online,19:20
+ORD0095,2026-01-05,French Fries,Side,89,1,505,Online,Online,19:20
+ORD0095,2026-01-05,Coca-Cola,Beverage,49,1,505,Online,Online,19:20
+ORD0095,2026-01-05,Onion Rings,Side,109,2,505,Online,Online,19:20
+ORD0096,2026-01-06,Burger,Main Course,149,1,317,Dine-in,Waiter,19:40
+ORD0096,2026-01-06,French Fries,Side,89,1,317,Dine-in,Waiter,19:40
+ORD0096,2026-01-06,Coca-Cola,Beverage,49,1,317,Dine-in,Waiter,19:40
+ORD0096,2026-01-06,Mineral Water,Beverage,30,1,317,Dine-in,Waiter,19:40
+ORD0097,2026-01-07,Burger,Main Course,149,1,386,Dine-in,Cashier,19:45
+ORD0097,2026-01-07,French Fries,Side,89,1,386,Dine-in,Cashier,19:45
+ORD0097,2026-01-07,Coca-Cola,Beverage,49,1,386,Dine-in,Cashier,19:45
+ORD0097,2026-01-07,Chocolate Brownie,Dessert,99,1,386,Dine-in,Cashier,19:45
+ORD0098,2026-01-08,Burger,Main Course,149,1,465,Takeaway,Cashier,19:45
+ORD0098,2026-01-08,French Fries,Side,89,1,465,Takeaway,Cashier,19:45
+ORD0098,2026-01-08,Coca-Cola,Beverage,49,1,465,Takeaway,Cashier,19:45
+ORD0098,2026-01-08,Vanilla Ice Cream,Dessert,89,2,465,Takeaway,Cashier,19:45
+ORD0099,2026-01-09,Burger,Main Course,149,2,545,Online,Online,15:20
+ORD0099,2026-01-09,French Fries,Side,89,1,545,Online,Online,15:20
+ORD0099,2026-01-09,Coca-Cola,Beverage,49,1,545,Online,Online,15:20
+ORD0099,2026-01-09,Onion Rings,Side,109,1,545,Online,Online,15:20
+ORD0100,2026-01-10,Burger,Main Course,149,1,317,Dine-in,Waiter,15:15
+ORD0100,2026-01-10,French Fries,Side,89,1,317,Dine-in,Waiter,15:15
+ORD0100,2026-01-10,Coca-Cola,Beverage,49,1,317,Dine-in,Waiter,15:15
+ORD0100,2026-01-10,Mineral Water,Beverage,30,1,317,Dine-in,Waiter,15:15
+ORD0101,2026-01-11,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,21:30
+ORD0101,2026-01-11,French Fries,Side,89,1,446,Dine-in,Waiter,21:30
+ORD0101,2026-01-11,Pepsi,Beverage,49,1,446,Dine-in,Waiter,21:30
+ORD0101,2026-01-11,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,21:30
+ORD0102,2026-01-12,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,18:00
+ORD0102,2026-01-12,French Fries,Side,89,1,446,Dine-in,Cashier,18:00
+ORD0102,2026-01-12,Pepsi,Beverage,49,1,446,Dine-in,Cashier,18:00
+ORD0102,2026-01-12,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,18:00
+ORD0103,2026-01-13,Cheeseburger,Main Course,179,1,535,Dine-in,Cashier,19:40
+ORD0103,2026-01-13,French Fries,Side,89,2,535,Dine-in,Cashier,19:40
+ORD0103,2026-01-13,Pepsi,Beverage,49,1,535,Dine-in,Cashier,19:40
+ORD0103,2026-01-13,Chocolate Cake,Dessert,129,1,535,Dine-in,Cashier,19:40
+ORD0104,2026-01-14,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,11:40
+ORD0104,2026-01-14,French Fries,Side,89,1,446,Takeaway,Cashier,11:40
+ORD0104,2026-01-14,Pepsi,Beverage,49,1,446,Takeaway,Cashier,11:40
+ORD0104,2026-01-14,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,11:40
+ORD0105,2026-01-15,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,20:20
+ORD0105,2026-01-15,French Fries,Side,89,1,446,Dine-in,Cashier,20:20
+ORD0105,2026-01-15,Pepsi,Beverage,49,1,446,Dine-in,Cashier,20:20
+ORD0105,2026-01-15,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,20:20
+ORD0106,2026-01-16,Cheeseburger,Main Course,179,1,446,Online,Online,19:10
+ORD0106,2026-01-16,French Fries,Side,89,1,446,Online,Online,19:10
+ORD0106,2026-01-16,Pepsi,Beverage,49,1,446,Online,Online,19:10
+ORD0106,2026-01-16,Chocolate Cake,Dessert,129,1,446,Online,Online,19:10
+ORD0107,2026-01-17,Cheeseburger,Main Course,179,1,446,Online,Online,21:15
+ORD0107,2026-01-17,French Fries,Side,89,1,446,Online,Online,21:15
+ORD0107,2026-01-17,Pepsi,Beverage,49,1,446,Online,Online,21:15
+ORD0107,2026-01-17,Chocolate Cake,Dessert,129,1,446,Online,Online,21:15
+ORD0108,2026-01-18,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,20:40
+ORD0108,2026-01-18,French Fries,Side,89,1,446,Takeaway,Cashier,20:40
+ORD0108,2026-01-18,Pepsi,Beverage,49,1,446,Takeaway,Cashier,20:40
+ORD0108,2026-01-18,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,20:40
+ORD0109,2026-01-19,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,19:20
+ORD0109,2026-01-19,French Fries,Side,89,1,446,Takeaway,Cashier,19:20
+ORD0109,2026-01-19,Pepsi,Beverage,49,1,446,Takeaway,Cashier,19:20
+ORD0109,2026-01-19,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,19:20
+ORD0110,2026-01-20,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,19:10
+ORD0110,2026-01-20,French Fries,Side,89,1,446,Takeaway,Cashier,19:10
+ORD0110,2026-01-20,Pepsi,Beverage,49,1,446,Takeaway,Cashier,19:10
+ORD0110,2026-01-20,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,19:10
+ORD0111,2026-01-21,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,19:30
+ORD0111,2026-01-21,French Fries,Side,89,1,446,Takeaway,Cashier,19:30
+ORD0111,2026-01-21,Pepsi,Beverage,49,1,446,Takeaway,Cashier,19:30
+ORD0111,2026-01-21,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,19:30
+ORD0112,2026-01-22,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,20:15
+ORD0112,2026-01-22,French Fries,Side,89,1,446,Takeaway,Cashier,20:15
+ORD0112,2026-01-22,Pepsi,Beverage,49,1,446,Takeaway,Cashier,20:15
+ORD0112,2026-01-22,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,20:15
+ORD0113,2026-01-23,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,15:30
+ORD0113,2026-01-23,French Fries,Side,89,1,446,Dine-in,Waiter,15:30
+ORD0113,2026-01-23,Pepsi,Beverage,49,1,446,Dine-in,Waiter,15:30
+ORD0113,2026-01-23,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,15:30
+ORD0114,2026-01-24,Cheeseburger,Main Course,179,1,535,Dine-in,Waiter,19:00
+ORD0114,2026-01-24,French Fries,Side,89,2,535,Dine-in,Waiter,19:00
+ORD0114,2026-01-24,Pepsi,Beverage,49,1,535,Dine-in,Waiter,19:00
+ORD0114,2026-01-24,Chocolate Cake,Dessert,129,1,535,Dine-in,Waiter,19:00
+ORD0115,2026-01-25,Cheeseburger,Main Course,179,1,446,Online,Online,19:45
+ORD0115,2026-01-25,French Fries,Side,89,1,446,Online,Online,19:45
+ORD0115,2026-01-25,Pepsi,Beverage,49,1,446,Online,Online,19:45
+ORD0115,2026-01-25,Chocolate Cake,Dessert,129,1,446,Online,Online,19:45
+ORD0116,2026-01-26,Cheeseburger,Main Course,179,1,495,Dine-in,Cashier,13:30
+ORD0116,2026-01-26,French Fries,Side,89,1,495,Dine-in,Cashier,13:30
+ORD0116,2026-01-26,Pepsi,Beverage,49,2,495,Dine-in,Cashier,13:30
+ORD0116,2026-01-26,Chocolate Cake,Dessert,129,1,495,Dine-in,Cashier,13:30
+ORD0117,2026-01-27,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,20:10
+ORD0117,2026-01-27,French Fries,Side,89,1,446,Dine-in,Cashier,20:10
+ORD0117,2026-01-27,Pepsi,Beverage,49,1,446,Dine-in,Cashier,20:10
+ORD0117,2026-01-27,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,20:10
+ORD0118,2026-01-28,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,19:00
+ORD0118,2026-01-28,French Fries,Side,89,1,446,Dine-in,Cashier,19:00
+ORD0118,2026-01-28,Pepsi,Beverage,49,1,446,Dine-in,Cashier,19:00
+ORD0118,2026-01-28,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,19:00
+ORD0119,2026-01-29,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,15:20
+ORD0119,2026-01-29,French Fries,Side,89,1,446,Dine-in,Waiter,15:20
+ORD0119,2026-01-29,Pepsi,Beverage,49,1,446,Dine-in,Waiter,15:20
+ORD0119,2026-01-29,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,15:20
+ORD0120,2026-01-30,Cheeseburger,Main Course,179,1,446,Online,Online,21:10
+ORD0120,2026-01-30,French Fries,Side,89,1,446,Online,Online,21:10
+ORD0120,2026-01-30,Pepsi,Beverage,49,1,446,Online,Online,21:10
+ORD0120,2026-01-30,Chocolate Cake,Dessert,129,1,446,Online,Online,21:10
+ORD0121,2026-01-31,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,21:20
+ORD0121,2026-01-31,French Fries,Side,89,1,446,Takeaway,Cashier,21:20
+ORD0121,2026-01-31,Pepsi,Beverage,49,1,446,Takeaway,Cashier,21:20
+ORD0121,2026-01-31,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,21:20
+ORD0122,2026-02-01,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,19:30
+ORD0122,2026-02-01,French Fries,Side,89,1,446,Dine-in,Cashier,19:30
+ORD0122,2026-02-01,Pepsi,Beverage,49,1,446,Dine-in,Cashier,19:30
+ORD0122,2026-02-01,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,19:30
+ORD0123,2026-02-02,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,21:30
+ORD0123,2026-02-02,French Fries,Side,89,1,446,Dine-in,Cashier,21:30
+ORD0123,2026-02-02,Pepsi,Beverage,49,1,446,Dine-in,Cashier,21:30
+ORD0123,2026-02-02,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,21:30
+ORD0124,2026-02-03,Cheeseburger,Main Course,179,1,535,Dine-in,Cashier,18:45
+ORD0124,2026-02-03,French Fries,Side,89,2,535,Dine-in,Cashier,18:45
+ORD0124,2026-02-03,Pepsi,Beverage,49,1,535,Dine-in,Cashier,18:45
+ORD0124,2026-02-03,Chocolate Cake,Dessert,129,1,535,Dine-in,Cashier,18:45
+ORD0125,2026-02-04,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,19:20
+ORD0125,2026-02-04,French Fries,Side,89,1,446,Dine-in,Waiter,19:20
+ORD0125,2026-02-04,Pepsi,Beverage,49,1,446,Dine-in,Waiter,19:20
+ORD0125,2026-02-04,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,19:20
+ORD0126,2026-02-05,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,19:20
+ORD0126,2026-02-05,French Fries,Side,89,1,446,Dine-in,Waiter,19:20
+ORD0126,2026-02-05,Pepsi,Beverage,49,1,446,Dine-in,Waiter,19:20
+ORD0126,2026-02-05,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,19:20
+ORD0127,2026-02-06,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,15:40
+ORD0127,2026-02-06,French Fries,Side,89,1,446,Takeaway,Cashier,15:40
+ORD0127,2026-02-06,Pepsi,Beverage,49,1,446,Takeaway,Cashier,15:40
+ORD0127,2026-02-06,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,15:40
+ORD0128,2026-02-07,Cheeseburger,Main Course,179,1,575,Dine-in,Cashier,21:15
+ORD0128,2026-02-07,French Fries,Side,89,1,575,Dine-in,Cashier,21:15
+ORD0128,2026-02-07,Pepsi,Beverage,49,1,575,Dine-in,Cashier,21:15
+ORD0128,2026-02-07,Chocolate Cake,Dessert,129,2,575,Dine-in,Cashier,21:15
+ORD0129,2026-02-08,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,20:45
+ORD0129,2026-02-08,French Fries,Side,89,1,446,Dine-in,Cashier,20:45
+ORD0129,2026-02-08,Pepsi,Beverage,49,1,446,Dine-in,Cashier,20:45
+ORD0129,2026-02-08,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,20:45
+ORD0130,2026-02-09,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,20:20
+ORD0130,2026-02-09,French Fries,Side,89,1,446,Dine-in,Cashier,20:20
+ORD0130,2026-02-09,Pepsi,Beverage,49,1,446,Dine-in,Cashier,20:20
+ORD0130,2026-02-09,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,20:20
+ORD0131,2026-02-10,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,19:45
+ORD0131,2026-02-10,French Fries,Side,89,1,446,Dine-in,Waiter,19:45
+ORD0131,2026-02-10,Pepsi,Beverage,49,1,446,Dine-in,Waiter,19:45
+ORD0131,2026-02-10,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,19:45
+ORD0132,2026-02-11,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,13:10
+ORD0132,2026-02-11,French Fries,Side,89,1,446,Takeaway,Cashier,13:10
+ORD0132,2026-02-11,Pepsi,Beverage,49,1,446,Takeaway,Cashier,13:10
+ORD0132,2026-02-11,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,13:10
+ORD0133,2026-02-12,Cheeseburger,Main Course,179,1,446,Dine-in,Waiter,13:10
+ORD0133,2026-02-12,French Fries,Side,89,1,446,Dine-in,Waiter,13:10
+ORD0133,2026-02-12,Pepsi,Beverage,49,1,446,Dine-in,Waiter,13:10
+ORD0133,2026-02-12,Chocolate Cake,Dessert,129,1,446,Dine-in,Waiter,13:10
+ORD0134,2026-02-13,Cheeseburger,Main Course,179,2,625,Online,Online,15:30
+ORD0134,2026-02-13,French Fries,Side,89,1,625,Online,Online,15:30
+ORD0134,2026-02-13,Pepsi,Beverage,49,1,625,Online,Online,15:30
+ORD0134,2026-02-13,Chocolate Cake,Dessert,129,1,625,Online,Online,15:30
+ORD0135,2026-02-14,Cheeseburger,Main Course,179,1,446,Online,Online,19:30
+ORD0135,2026-02-14,French Fries,Side,89,1,446,Online,Online,19:30
+ORD0135,2026-02-14,Pepsi,Beverage,49,1,446,Online,Online,19:30
+ORD0135,2026-02-14,Chocolate Cake,Dessert,129,1,446,Online,Online,19:30
+ORD0136,2026-02-15,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,21:00
+ORD0136,2026-02-15,French Fries,Side,89,1,446,Dine-in,Cashier,21:00
+ORD0136,2026-02-15,Pepsi,Beverage,49,1,446,Dine-in,Cashier,21:00
+ORD0136,2026-02-15,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,21:00
+ORD0137,2026-02-16,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,19:20
+ORD0137,2026-02-16,French Fries,Side,89,1,446,Takeaway,Cashier,19:20
+ORD0137,2026-02-16,Pepsi,Beverage,49,1,446,Takeaway,Cashier,19:20
+ORD0137,2026-02-16,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,19:20
+ORD0138,2026-02-17,Cheeseburger,Main Course,179,1,446,Takeaway,Cashier,19:20
+ORD0138,2026-02-17,French Fries,Side,89,1,446,Takeaway,Cashier,19:20
+ORD0138,2026-02-17,Pepsi,Beverage,49,1,446,Takeaway,Cashier,19:20
+ORD0138,2026-02-17,Chocolate Cake,Dessert,129,1,446,Takeaway,Cashier,19:20
+ORD0139,2026-02-18,Cheeseburger,Main Course,179,2,625,Dine-in,Waiter,18:30
+ORD0139,2026-02-18,French Fries,Side,89,1,625,Dine-in,Waiter,18:30
+ORD0139,2026-02-18,Pepsi,Beverage,49,1,625,Dine-in,Waiter,18:30
+ORD0139,2026-02-18,Chocolate Cake,Dessert,129,1,625,Dine-in,Waiter,18:30
+ORD0140,2026-02-19,Cheeseburger,Main Course,179,1,446,Dine-in,Cashier,13:10
+ORD0140,2026-02-19,French Fries,Side,89,1,446,Dine-in,Cashier,13:10
+ORD0140,2026-02-19,Pepsi,Beverage,49,1,446,Dine-in,Cashier,13:10
+ORD0140,2026-02-19,Chocolate Cake,Dessert,129,1,446,Dine-in,Cashier,13:10
+ORD0141,2026-02-20,Chicken Burger,Main Course,199,2,665,Takeaway,Cashier,18:30
+ORD0141,2026-02-20,French Fries,Side,89,1,665,Takeaway,Cashier,18:30
+ORD0141,2026-02-20,Coca-Cola,Beverage,49,1,665,Takeaway,Cashier,18:30
+ORD0141,2026-02-20,Chocolate Milkshake,Beverage,129,1,665,Takeaway,Cashier,18:30
+ORD0142,2026-02-21,Chicken Burger,Main Course,199,2,714,Takeaway,Cashier,13:45
+ORD0142,2026-02-21,French Fries,Side,89,1,714,Takeaway,Cashier,13:45
+ORD0142,2026-02-21,Coca-Cola,Beverage,49,2,714,Takeaway,Cashier,13:45
+ORD0142,2026-02-21,Chocolate Milkshake,Beverage,129,1,714,Takeaway,Cashier,13:45
+ORD0143,2026-02-22,Chicken Burger,Main Course,199,1,644,Takeaway,Cashier,19:10
+ORD0143,2026-02-22,French Fries,Side,89,1,644,Takeaway,Cashier,19:10
+ORD0143,2026-02-22,Coca-Cola,Beverage,49,2,644,Takeaway,Cashier,19:10
+ORD0143,2026-02-22,Chocolate Milkshake,Beverage,129,2,644,Takeaway,Cashier,19:10
+ORD0144,2026-02-23,Chicken Burger,Main Course,199,1,515,Takeaway,Cashier,19:15
+ORD0144,2026-02-23,French Fries,Side,89,1,515,Takeaway,Cashier,19:15
+ORD0144,2026-02-23,Coca-Cola,Beverage,49,2,515,Takeaway,Cashier,19:15
+ORD0144,2026-02-23,Chocolate Milkshake,Beverage,129,1,515,Takeaway,Cashier,19:15
+ORD0145,2026-02-24,Chicken Burger,Main Course,199,1,466,Dine-in,Cashier,18:00
+ORD0145,2026-02-24,French Fries,Side,89,1,466,Dine-in,Cashier,18:00
+ORD0145,2026-02-24,Coca-Cola,Beverage,49,1,466,Dine-in,Cashier,18:00
+ORD0145,2026-02-24,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Cashier,18:00
+ORD0146,2026-02-25,Chicken Burger,Main Course,199,1,466,Dine-in,Waiter,11:15
+ORD0146,2026-02-25,French Fries,Side,89,1,466,Dine-in,Waiter,11:15
+ORD0146,2026-02-25,Coca-Cola,Beverage,49,1,466,Dine-in,Waiter,11:15
+ORD0146,2026-02-25,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Waiter,11:15
+ORD0147,2026-02-26,Chicken Burger,Main Course,199,1,466,Online,Online,21:45
+ORD0147,2026-02-26,French Fries,Side,89,1,466,Online,Online,21:45
+ORD0147,2026-02-26,Coca-Cola,Beverage,49,1,466,Online,Online,21:45
+ORD0147,2026-02-26,Chocolate Milkshake,Beverage,129,1,466,Online,Online,21:45
+ORD0148,2026-02-27,Chicken Burger,Main Course,199,1,466,Dine-in,Waiter,13:00
+ORD0148,2026-02-27,French Fries,Side,89,1,466,Dine-in,Waiter,13:00
+ORD0148,2026-02-27,Coca-Cola,Beverage,49,1,466,Dine-in,Waiter,13:00
+ORD0148,2026-02-27,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Waiter,13:00
+ORD0149,2026-02-28,Chicken Burger,Main Course,199,2,665,Online,Online,18:30
+ORD0149,2026-02-28,French Fries,Side,89,1,665,Online,Online,18:30
+ORD0149,2026-02-28,Coca-Cola,Beverage,49,1,665,Online,Online,18:30
+ORD0149,2026-02-28,Chocolate Milkshake,Beverage,129,1,665,Online,Online,18:30
+ORD0150,2026-03-01,Chicken Burger,Main Course,199,1,466,Dine-in,Waiter,20:10
+ORD0150,2026-03-01,French Fries,Side,89,1,466,Dine-in,Waiter,20:10
+ORD0150,2026-03-01,Coca-Cola,Beverage,49,1,466,Dine-in,Waiter,20:10
+ORD0150,2026-03-01,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Waiter,20:10
+ORD0151,2026-03-02,Chicken Burger,Main Course,199,1,515,Dine-in,Cashier,18:00
+ORD0151,2026-03-02,French Fries,Side,89,1,515,Dine-in,Cashier,18:00
+ORD0151,2026-03-02,Coca-Cola,Beverage,49,2,515,Dine-in,Cashier,18:00
+ORD0151,2026-03-02,Chocolate Milkshake,Beverage,129,1,515,Dine-in,Cashier,18:00
+ORD0152,2026-03-03,Chicken Burger,Main Course,199,1,466,Takeaway,Cashier,19:10
+ORD0152,2026-03-03,French Fries,Side,89,1,466,Takeaway,Cashier,19:10
+ORD0152,2026-03-03,Coca-Cola,Beverage,49,1,466,Takeaway,Cashier,19:10
+ORD0152,2026-03-03,Chocolate Milkshake,Beverage,129,1,466,Takeaway,Cashier,19:10
+ORD0153,2026-03-04,Chicken Burger,Main Course,199,1,466,Dine-in,Cashier,21:10
+ORD0153,2026-03-04,French Fries,Side,89,1,466,Dine-in,Cashier,21:10
+ORD0153,2026-03-04,Coca-Cola,Beverage,49,1,466,Dine-in,Cashier,21:10
+ORD0153,2026-03-04,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Cashier,21:10
+ORD0154,2026-03-05,Chicken Burger,Main Course,199,1,466,Dine-in,Waiter,13:40
+ORD0154,2026-03-05,French Fries,Side,89,1,466,Dine-in,Waiter,13:40
+ORD0154,2026-03-05,Coca-Cola,Beverage,49,1,466,Dine-in,Waiter,13:40
+ORD0154,2026-03-05,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Waiter,13:40
+ORD0155,2026-03-06,Chicken Burger,Main Course,199,1,466,Takeaway,Cashier,19:00
+ORD0155,2026-03-06,French Fries,Side,89,1,466,Takeaway,Cashier,19:00
+ORD0155,2026-03-06,Coca-Cola,Beverage,49,1,466,Takeaway,Cashier,19:00
+ORD0155,2026-03-06,Chocolate Milkshake,Beverage,129,1,466,Takeaway,Cashier,19:00
+ORD0156,2026-03-07,Chicken Burger,Main Course,199,1,466,Takeaway,Cashier,18:15
+ORD0156,2026-03-07,French Fries,Side,89,1,466,Takeaway,Cashier,18:15
+ORD0156,2026-03-07,Coca-Cola,Beverage,49,1,466,Takeaway,Cashier,18:15
+ORD0156,2026-03-07,Chocolate Milkshake,Beverage,129,1,466,Takeaway,Cashier,18:15
+ORD0157,2026-03-08,Chicken Burger,Main Course,199,1,555,Takeaway,Cashier,15:10
+ORD0157,2026-03-08,French Fries,Side,89,2,555,Takeaway,Cashier,15:10
+ORD0157,2026-03-08,Coca-Cola,Beverage,49,1,555,Takeaway,Cashier,15:10
+ORD0157,2026-03-08,Chocolate Milkshake,Beverage,129,1,555,Takeaway,Cashier,15:10
+ORD0158,2026-03-09,Chicken Burger,Main Course,199,1,466,Dine-in,Cashier,19:15
+ORD0158,2026-03-09,French Fries,Side,89,1,466,Dine-in,Cashier,19:15
+ORD0158,2026-03-09,Coca-Cola,Beverage,49,1,466,Dine-in,Cashier,19:15
+ORD0158,2026-03-09,Chocolate Milkshake,Beverage,129,1,466,Dine-in,Cashier,19:15
+ORD0159,2026-03-10,Chicken Burger,Main Course,199,1,466,Online,Online,19:50
+ORD0159,2026-03-10,French Fries,Side,89,1,466,Online,Online,19:50
+ORD0159,2026-03-10,Coca-Cola,Beverage,49,1,466,Online,Online,19:50
+ORD0159,2026-03-10,Chocolate Milkshake,Beverage,129,1,466,Online,Online,19:50
+ORD0160,2026-03-11,Chicken Burger,Main Course,199,1,466,Takeaway,Cashier,20:20
+ORD0160,2026-03-11,French Fries,Side,89,1,466,Takeaway,Cashier,20:20
+ORD0160,2026-03-11,Coca-Cola,Beverage,49,1,466,Takeaway,Cashier,20:20
+ORD0160,2026-03-11,Chocolate Milkshake,Beverage,129,1,466,Takeaway,Cashier,20:20
+ORD0161,2026-03-12,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,19:50
+ORD0161,2026-03-12,Garlic Bread,Side,99,1,496,Takeaway,Cashier,19:50
+ORD0161,2026-03-12,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,19:50
+ORD0161,2026-03-12,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,19:50
+ORD0162,2026-03-13,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,19:45
+ORD0162,2026-03-13,Garlic Bread,Side,99,1,496,Dine-in,Cashier,19:45
+ORD0162,2026-03-13,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,19:45
+ORD0162,2026-03-13,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,19:45
+ORD0163,2026-03-14,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,20:45
+ORD0163,2026-03-14,Garlic Bread,Side,99,1,496,Dine-in,Cashier,20:45
+ORD0163,2026-03-14,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,20:45
+ORD0163,2026-03-14,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,20:45
+ORD0164,2026-03-15,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,19:15
+ORD0164,2026-03-15,Garlic Bread,Side,99,1,496,Dine-in,Cashier,19:15
+ORD0164,2026-03-15,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,19:15
+ORD0164,2026-03-15,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,19:15
+ORD0165,2026-03-16,Margherita Pizza,Main Course,249,2,745,Online,Online,19:45
+ORD0165,2026-03-16,Garlic Bread,Side,99,1,745,Online,Online,19:45
+ORD0165,2026-03-16,Coca-Cola,Beverage,49,1,745,Online,Online,19:45
+ORD0165,2026-03-16,Chocolate Brownie,Dessert,99,1,745,Online,Online,19:45
+ORD0166,2026-03-17,Margherita Pizza,Main Course,249,1,496,Dine-in,Waiter,20:15
+ORD0166,2026-03-17,Garlic Bread,Side,99,1,496,Dine-in,Waiter,20:15
+ORD0166,2026-03-17,Coca-Cola,Beverage,49,1,496,Dine-in,Waiter,20:15
+ORD0166,2026-03-17,Chocolate Brownie,Dessert,99,1,496,Dine-in,Waiter,20:15
+ORD0167,2026-03-18,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,20:30
+ORD0167,2026-03-18,Garlic Bread,Side,99,1,496,Dine-in,Cashier,20:30
+ORD0167,2026-03-18,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,20:30
+ORD0167,2026-03-18,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,20:30
+ORD0168,2026-03-19,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,18:15
+ORD0168,2026-03-19,Garlic Bread,Side,99,1,496,Dine-in,Cashier,18:15
+ORD0168,2026-03-19,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,18:15
+ORD0168,2026-03-19,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,18:15
+ORD0169,2026-03-20,Margherita Pizza,Main Course,249,1,496,Dine-in,Waiter,21:30
+ORD0169,2026-03-20,Garlic Bread,Side,99,1,496,Dine-in,Waiter,21:30
+ORD0169,2026-03-20,Coca-Cola,Beverage,49,1,496,Dine-in,Waiter,21:30
+ORD0169,2026-03-20,Chocolate Brownie,Dessert,99,1,496,Dine-in,Waiter,21:30
+ORD0170,2026-03-21,Margherita Pizza,Main Course,249,1,496,Online,Online,13:40
+ORD0170,2026-03-21,Garlic Bread,Side,99,1,496,Online,Online,13:40
+ORD0170,2026-03-21,Coca-Cola,Beverage,49,1,496,Online,Online,13:40
+ORD0170,2026-03-21,Chocolate Brownie,Dessert,99,1,496,Online,Online,13:40
+ORD0171,2026-03-22,Margherita Pizza,Main Course,249,1,595,Dine-in,Cashier,21:40
+ORD0171,2026-03-22,Garlic Bread,Side,99,1,595,Dine-in,Cashier,21:40
+ORD0171,2026-03-22,Coca-Cola,Beverage,49,1,595,Dine-in,Cashier,21:40
+ORD0171,2026-03-22,Chocolate Brownie,Dessert,99,2,595,Dine-in,Cashier,21:40
+ORD0172,2026-03-23,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,18:20
+ORD0172,2026-03-23,Garlic Bread,Side,99,1,496,Takeaway,Cashier,18:20
+ORD0172,2026-03-23,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,18:20
+ORD0172,2026-03-23,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,18:20
+ORD0173,2026-03-24,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,19:20
+ORD0173,2026-03-24,Garlic Bread,Side,99,1,496,Takeaway,Cashier,19:20
+ORD0173,2026-03-24,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,19:20
+ORD0173,2026-03-24,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,19:20
+ORD0174,2026-03-25,Margherita Pizza,Main Course,249,1,496,Dine-in,Cashier,11:40
+ORD0174,2026-03-25,Garlic Bread,Side,99,1,496,Dine-in,Cashier,11:40
+ORD0174,2026-03-25,Coca-Cola,Beverage,49,1,496,Dine-in,Cashier,11:40
+ORD0174,2026-03-25,Chocolate Brownie,Dessert,99,1,496,Dine-in,Cashier,11:40
+ORD0175,2026-03-26,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,18:30
+ORD0175,2026-03-26,Garlic Bread,Side,99,1,496,Takeaway,Cashier,18:30
+ORD0175,2026-03-26,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,18:30
+ORD0175,2026-03-26,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,18:30
+ORD0176,2026-03-27,Margherita Pizza,Main Course,249,2,745,Dine-in,Waiter,13:10
+ORD0176,2026-03-27,Garlic Bread,Side,99,1,745,Dine-in,Waiter,13:10
+ORD0176,2026-03-27,Coca-Cola,Beverage,49,1,745,Dine-in,Waiter,13:10
+ORD0176,2026-03-27,Chocolate Brownie,Dessert,99,1,745,Dine-in,Waiter,13:10
+ORD0177,2026-03-28,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,13:30
+ORD0177,2026-03-28,Garlic Bread,Side,99,1,496,Takeaway,Cashier,13:30
+ORD0177,2026-03-28,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,13:30
+ORD0177,2026-03-28,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,13:30
+ORD0178,2026-03-29,Margherita Pizza,Main Course,249,1,496,Dine-in,Waiter,19:00
+ORD0178,2026-03-29,Garlic Bread,Side,99,1,496,Dine-in,Waiter,19:00
+ORD0178,2026-03-29,Coca-Cola,Beverage,49,1,496,Dine-in,Waiter,19:00
+ORD0178,2026-03-29,Chocolate Brownie,Dessert,99,1,496,Dine-in,Waiter,19:00
+ORD0179,2026-03-30,Margherita Pizza,Main Course,249,1,496,Dine-in,Waiter,20:30
+ORD0179,2026-03-30,Garlic Bread,Side,99,1,496,Dine-in,Waiter,20:30
+ORD0179,2026-03-30,Coca-Cola,Beverage,49,1,496,Dine-in,Waiter,20:30
+ORD0179,2026-03-30,Chocolate Brownie,Dessert,99,1,496,Dine-in,Waiter,20:30
+ORD0180,2026-03-31,Margherita Pizza,Main Course,249,1,496,Takeaway,Cashier,20:50
+ORD0180,2026-03-31,Garlic Bread,Side,99,1,496,Takeaway,Cashier,20:50
+ORD0180,2026-03-31,Coca-Cola,Beverage,49,1,496,Takeaway,Cashier,20:50
+ORD0180,2026-03-31,Chocolate Brownie,Dessert,99,1,496,Takeaway,Cashier,20:50
+ORD0181,2026-01-01,Veg Sandwich,Main Course,119,1,426,Online,Online,19:10
+ORD0181,2026-01-01,French Fries,Side,89,1,426,Online,Online,19:10
+ORD0181,2026-01-01,Lemonade,Beverage,69,1,426,Online,Online,19:10
+ORD0181,2026-01-01,Cheesecake,Dessert,149,1,426,Online,Online,19:10
+ORD0182,2026-01-02,Veg Sandwich,Main Course,119,1,426,Online,Online,19:45
+ORD0182,2026-01-02,French Fries,Side,89,1,426,Online,Online,19:45
+ORD0182,2026-01-02,Lemonade,Beverage,69,1,426,Online,Online,19:45
+ORD0182,2026-01-02,Cheesecake,Dessert,149,1,426,Online,Online,19:45
+ORD0183,2026-01-03,Veg Sandwich,Main Course,119,1,426,Takeaway,Cashier,18:20
+ORD0183,2026-01-03,French Fries,Side,89,1,426,Takeaway,Cashier,18:20
+ORD0183,2026-01-03,Lemonade,Beverage,69,1,426,Takeaway,Cashier,18:20
+ORD0183,2026-01-03,Cheesecake,Dessert,149,1,426,Takeaway,Cashier,18:20
+ORD0184,2026-01-04,Veg Sandwich,Main Course,119,1,426,Dine-in,Cashier,19:00
+ORD0184,2026-01-04,French Fries,Side,89,1,426,Dine-in,Cashier,19:00
+ORD0184,2026-01-04,Lemonade,Beverage,69,1,426,Dine-in,Cashier,19:00
+ORD0184,2026-01-04,Cheesecake,Dessert,149,1,426,Dine-in,Cashier,19:00
+ORD0185,2026-01-05,Veg Sandwich,Main Course,119,1,426,Takeaway,Cashier,13:30
+ORD0185,2026-01-05,French Fries,Side,89,1,426,Takeaway,Cashier,13:30
+ORD0185,2026-01-05,Lemonade,Beverage,69,1,426,Takeaway,Cashier,13:30
+ORD0185,2026-01-05,Cheesecake,Dessert,149,1,426,Takeaway,Cashier,13:30
+ORD0186,2026-01-06,Veg Sandwich,Main Course,119,1,426,Online,Online,19:10
+ORD0186,2026-01-06,French Fries,Side,89,1,426,Online,Online,19:10
+ORD0186,2026-01-06,Lemonade,Beverage,69,1,426,Online,Online,19:10
+ORD0186,2026-01-06,Cheesecake,Dessert,149,1,426,Online,Online,19:10
+ORD0187,2026-01-07,Veg Sandwich,Main Course,119,1,515,Online,Online,20:10
+ORD0187,2026-01-07,French Fries,Side,89,2,515,Online,Online,20:10
+ORD0187,2026-01-07,Lemonade,Beverage,69,1,515,Online,Online,20:10
+ORD0187,2026-01-07,Cheesecake,Dessert,149,1,515,Online,Online,20:10
+ORD0188,2026-01-08,Veg Sandwich,Main Course,119,1,426,Dine-in,Cashier,11:00
+ORD0188,2026-01-08,French Fries,Side,89,1,426,Dine-in,Cashier,11:00
+ORD0188,2026-01-08,Lemonade,Beverage,69,1,426,Dine-in,Cashier,11:00
+ORD0188,2026-01-08,Cheesecake,Dessert,149,1,426,Dine-in,Cashier,11:00
+ORD0189,2026-01-09,Veg Sandwich,Main Course,119,1,515,Online,Online,18:30
+ORD0189,2026-01-09,French Fries,Side,89,2,515,Online,Online,18:30
+ORD0189,2026-01-09,Lemonade,Beverage,69,1,515,Online,Online,18:30
+ORD0189,2026-01-09,Cheesecake,Dessert,149,1,515,Online,Online,18:30
+ORD0190,2026-01-10,Veg Sandwich,Main Course,119,1,515,Dine-in,Waiter,20:15
+ORD0190,2026-01-10,French Fries,Side,89,2,515,Dine-in,Waiter,20:15
+ORD0190,2026-01-10,Lemonade,Beverage,69,1,515,Dine-in,Waiter,20:15
+ORD0190,2026-01-10,Cheesecake,Dessert,149,1,515,Dine-in,Waiter,20:15
+ORD0191,2026-01-11,Veg Sandwich,Main Course,119,1,426,Dine-in,Waiter,21:45
+ORD0191,2026-01-11,French Fries,Side,89,1,426,Dine-in,Waiter,21:45
+ORD0191,2026-01-11,Lemonade,Beverage,69,1,426,Dine-in,Waiter,21:45
+ORD0191,2026-01-11,Cheesecake,Dessert,149,1,426,Dine-in,Waiter,21:45
+ORD0192,2026-01-12,Veg Sandwich,Main Course,119,1,426,Takeaway,Cashier,15:00
+ORD0192,2026-01-12,French Fries,Side,89,1,426,Takeaway,Cashier,15:00
+ORD0192,2026-01-12,Lemonade,Beverage,69,1,426,Takeaway,Cashier,15:00
+ORD0192,2026-01-12,Cheesecake,Dessert,149,1,426,Takeaway,Cashier,15:00
+ORD0193,2026-01-13,Veg Sandwich,Main Course,119,1,426,Dine-in,Waiter,13:00
+ORD0193,2026-01-13,French Fries,Side,89,1,426,Dine-in,Waiter,13:00
+ORD0193,2026-01-13,Lemonade,Beverage,69,1,426,Dine-in,Waiter,13:00
+ORD0193,2026-01-13,Cheesecake,Dessert,149,1,426,Dine-in,Waiter,13:00
+ORD0194,2026-01-14,Veg Sandwich,Main Course,119,1,426,Online,Online,13:00
+ORD0194,2026-01-14,French Fries,Side,89,1,426,Online,Online,13:00
+ORD0194,2026-01-14,Lemonade,Beverage,69,1,426,Online,Online,13:00
+ORD0194,2026-01-14,Cheesecake,Dessert,149,1,426,Online,Online,13:00
+ORD0195,2026-01-15,Veg Sandwich,Main Course,119,1,426,Dine-in,Cashier,13:15
+ORD0195,2026-01-15,French Fries,Side,89,1,426,Dine-in,Cashier,13:15
+ORD0195,2026-01-15,Lemonade,Beverage,69,1,426,Dine-in,Cashier,13:15
+ORD0195,2026-01-15,Cheesecake,Dessert,149,1,426,Dine-in,Cashier,13:15
+ORD0196,2026-01-16,Veg Sandwich,Main Course,119,1,426,Dine-in,Cashier,19:10
+ORD0196,2026-01-16,French Fries,Side,89,1,426,Dine-in,Cashier,19:10
+ORD0196,2026-01-16,Lemonade,Beverage,69,1,426,Dine-in,Cashier,19:10
+ORD0196,2026-01-16,Cheesecake,Dessert,149,1,426,Dine-in,Cashier,19:10
+ORD0197,2026-01-17,Veg Sandwich,Main Course,119,1,426,Takeaway,Cashier,13:50
+ORD0197,2026-01-17,French Fries,Side,89,1,426,Takeaway,Cashier,13:50
+ORD0197,2026-01-17,Lemonade,Beverage,69,1,426,Takeaway,Cashier,13:50
+ORD0197,2026-01-17,Cheesecake,Dessert,149,1,426,Takeaway,Cashier,13:50
+ORD0198,2026-01-18,Veg Sandwich,Main Course,119,1,426,Dine-in,Waiter,19:45
+ORD0198,2026-01-18,French Fries,Side,89,1,426,Dine-in,Waiter,19:45
+ORD0198,2026-01-18,Lemonade,Beverage,69,1,426,Dine-in,Waiter,19:45
+ORD0198,2026-01-18,Cheesecake,Dessert,149,1,426,Dine-in,Waiter,19:45
+ORD0199,2026-01-19,Veg Sandwich,Main Course,119,1,495,Online,Online,19:00
+ORD0199,2026-01-19,French Fries,Side,89,1,495,Online,Online,19:00
+ORD0199,2026-01-19,Lemonade,Beverage,69,2,495,Online,Online,19:00
+ORD0199,2026-01-19,Cheesecake,Dessert,149,1,495,Online,Online,19:00
+ORD0200,2026-01-20,Veg Sandwich,Main Course,119,1,426,Dine-in,Waiter,11:15
+ORD0200,2026-01-20,French Fries,Side,89,1,426,Dine-in,Waiter,11:15
+ORD0200,2026-01-20,Lemonade,Beverage,69,1,426,Dine-in,Waiter,11:15
+ORD0200,2026-01-20,Cheesecake,Dessert,149,1,426,Dine-in,Waiter,11:15
+ORD0201,2026-01-21,Pasta Alfredo,Main Course,229,1,496,Dine-in,Waiter,19:10
+ORD0201,2026-01-21,Garlic Bread,Side,99,1,496,Dine-in,Waiter,19:10
+ORD0201,2026-01-21,Iced Tea,Beverage,79,1,496,Dine-in,Waiter,19:10
+ORD0201,2026-01-21,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Waiter,19:10
+ORD0202,2026-01-22,Pasta Alfredo,Main Course,229,1,496,Dine-in,Cashier,13:30
+ORD0202,2026-01-22,Garlic Bread,Side,99,1,496,Dine-in,Cashier,13:30
+ORD0202,2026-01-22,Iced Tea,Beverage,79,1,496,Dine-in,Cashier,13:30
+ORD0202,2026-01-22,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Cashier,13:30
+ORD0203,2026-01-23,Pasta Alfredo,Main Course,229,2,725,Dine-in,Waiter,19:50
+ORD0203,2026-01-23,Garlic Bread,Side,99,1,725,Dine-in,Waiter,19:50
+ORD0203,2026-01-23,Iced Tea,Beverage,79,1,725,Dine-in,Waiter,19:50
+ORD0203,2026-01-23,Vanilla Ice Cream,Dessert,89,1,725,Dine-in,Waiter,19:50
+ORD0204,2026-01-24,Pasta Alfredo,Main Course,229,1,575,Takeaway,Cashier,20:00
+ORD0204,2026-01-24,Garlic Bread,Side,99,1,575,Takeaway,Cashier,20:00
+ORD0204,2026-01-24,Iced Tea,Beverage,79,2,575,Takeaway,Cashier,20:00
+ORD0204,2026-01-24,Vanilla Ice Cream,Dessert,89,1,575,Takeaway,Cashier,20:00
+ORD0205,2026-01-25,Pasta Alfredo,Main Course,229,2,824,Takeaway,Cashier,21:00
+ORD0205,2026-01-25,Garlic Bread,Side,99,2,824,Takeaway,Cashier,21:00
+ORD0205,2026-01-25,Iced Tea,Beverage,79,1,824,Takeaway,Cashier,21:00
+ORD0205,2026-01-25,Vanilla Ice Cream,Dessert,89,1,824,Takeaway,Cashier,21:00
+ORD0206,2026-01-26,Pasta Alfredo,Main Course,229,1,496,Dine-in,Cashier,15:40
+ORD0206,2026-01-26,Garlic Bread,Side,99,1,496,Dine-in,Cashier,15:40
+ORD0206,2026-01-26,Iced Tea,Beverage,79,1,496,Dine-in,Cashier,15:40
+ORD0206,2026-01-26,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Cashier,15:40
+ORD0207,2026-01-27,Pasta Alfredo,Main Course,229,1,496,Dine-in,Cashier,19:20
+ORD0207,2026-01-27,Garlic Bread,Side,99,1,496,Dine-in,Cashier,19:20
+ORD0207,2026-01-27,Iced Tea,Beverage,79,1,496,Dine-in,Cashier,19:20
+ORD0207,2026-01-27,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Cashier,19:20
+ORD0208,2026-01-28,Pasta Alfredo,Main Course,229,1,496,Takeaway,Cashier,11:00
+ORD0208,2026-01-28,Garlic Bread,Side,99,1,496,Takeaway,Cashier,11:00
+ORD0208,2026-01-28,Iced Tea,Beverage,79,1,496,Takeaway,Cashier,11:00
+ORD0208,2026-01-28,Vanilla Ice Cream,Dessert,89,1,496,Takeaway,Cashier,11:00
+ORD0209,2026-01-29,Pasta Alfredo,Main Course,229,1,575,Takeaway,Cashier,19:00
+ORD0209,2026-01-29,Garlic Bread,Side,99,1,575,Takeaway,Cashier,19:00
+ORD0209,2026-01-29,Iced Tea,Beverage,79,2,575,Takeaway,Cashier,19:00
+ORD0209,2026-01-29,Vanilla Ice Cream,Dessert,89,1,575,Takeaway,Cashier,19:00
+ORD0210,2026-01-30,Pasta Alfredo,Main Course,229,1,595,Dine-in,Waiter,11:00
+ORD0210,2026-01-30,Garlic Bread,Side,99,2,595,Dine-in,Waiter,11:00
+ORD0210,2026-01-30,Iced Tea,Beverage,79,1,595,Dine-in,Waiter,11:00
+ORD0210,2026-01-30,Vanilla Ice Cream,Dessert,89,1,595,Dine-in,Waiter,11:00
+ORD0211,2026-01-31,Pasta Alfredo,Main Course,229,1,496,Takeaway,Cashier,20:00
+ORD0211,2026-01-31,Garlic Bread,Side,99,1,496,Takeaway,Cashier,20:00
+ORD0211,2026-01-31,Iced Tea,Beverage,79,1,496,Takeaway,Cashier,20:00
+ORD0211,2026-01-31,Vanilla Ice Cream,Dessert,89,1,496,Takeaway,Cashier,20:00
+ORD0212,2026-02-01,Pasta Alfredo,Main Course,229,1,575,Dine-in,Waiter,13:10
+ORD0212,2026-02-01,Garlic Bread,Side,99,1,575,Dine-in,Waiter,13:10
+ORD0212,2026-02-01,Iced Tea,Beverage,79,2,575,Dine-in,Waiter,13:10
+ORD0212,2026-02-01,Vanilla Ice Cream,Dessert,89,1,575,Dine-in,Waiter,13:10
+ORD0213,2026-02-02,Pasta Alfredo,Main Course,229,1,496,Online,Online,13:20
+ORD0213,2026-02-02,Garlic Bread,Side,99,1,496,Online,Online,13:20
+ORD0213,2026-02-02,Iced Tea,Beverage,79,1,496,Online,Online,13:20
+ORD0213,2026-02-02,Vanilla Ice Cream,Dessert,89,1,496,Online,Online,13:20
+ORD0214,2026-02-03,Pasta Alfredo,Main Course,229,1,496,Online,Online,11:45
+ORD0214,2026-02-03,Garlic Bread,Side,99,1,496,Online,Online,11:45
+ORD0214,2026-02-03,Iced Tea,Beverage,79,1,496,Online,Online,11:45
+ORD0214,2026-02-03,Vanilla Ice Cream,Dessert,89,1,496,Online,Online,11:45
+ORD0215,2026-02-04,Pasta Alfredo,Main Course,229,1,496,Online,Online,20:30
+ORD0215,2026-02-04,Garlic Bread,Side,99,1,496,Online,Online,20:30
+ORD0215,2026-02-04,Iced Tea,Beverage,79,1,496,Online,Online,20:30
+ORD0215,2026-02-04,Vanilla Ice Cream,Dessert,89,1,496,Online,Online,20:30
+ORD0216,2026-02-05,Pasta Alfredo,Main Course,229,1,496,Dine-in,Cashier,13:40
+ORD0216,2026-02-05,Garlic Bread,Side,99,1,496,Dine-in,Cashier,13:40
+ORD0216,2026-02-05,Iced Tea,Beverage,79,1,496,Dine-in,Cashier,13:40
+ORD0216,2026-02-05,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Cashier,13:40
+ORD0217,2026-02-06,Pasta Alfredo,Main Course,229,1,496,Takeaway,Cashier,13:40
+ORD0217,2026-02-06,Garlic Bread,Side,99,1,496,Takeaway,Cashier,13:40
+ORD0217,2026-02-06,Iced Tea,Beverage,79,1,496,Takeaway,Cashier,13:40
+ORD0217,2026-02-06,Vanilla Ice Cream,Dessert,89,1,496,Takeaway,Cashier,13:40
+ORD0218,2026-02-07,Pasta Alfredo,Main Course,229,1,496,Online,Online,13:15
+ORD0218,2026-02-07,Garlic Bread,Side,99,1,496,Online,Online,13:15
+ORD0218,2026-02-07,Iced Tea,Beverage,79,1,496,Online,Online,13:15
+ORD0218,2026-02-07,Vanilla Ice Cream,Dessert,89,1,496,Online,Online,13:15
+ORD0219,2026-02-08,Pasta Alfredo,Main Course,229,1,496,Takeaway,Cashier,21:15
+ORD0219,2026-02-08,Garlic Bread,Side,99,1,496,Takeaway,Cashier,21:15
+ORD0219,2026-02-08,Iced Tea,Beverage,79,1,496,Takeaway,Cashier,21:15
+ORD0219,2026-02-08,Vanilla Ice Cream,Dessert,89,1,496,Takeaway,Cashier,21:15
+ORD0220,2026-02-09,Pasta Alfredo,Main Course,229,1,496,Dine-in,Cashier,15:40
+ORD0220,2026-02-09,Garlic Bread,Side,99,1,496,Dine-in,Cashier,15:40
+ORD0220,2026-02-09,Iced Tea,Beverage,79,1,496,Dine-in,Cashier,15:40
+ORD0220,2026-02-09,Vanilla Ice Cream,Dessert,89,1,496,Dine-in,Cashier,15:40
+ORD0221,2026-02-10,Club Sandwich,Main Course,169,1,456,Takeaway,Cashier,19:15
+ORD0221,2026-02-10,Onion Rings,Side,109,1,456,Takeaway,Cashier,19:15
+ORD0221,2026-02-10,Iced Tea,Beverage,79,1,456,Takeaway,Cashier,19:15
+ORD0221,2026-02-10,Chocolate Brownie,Dessert,99,1,456,Takeaway,Cashier,19:15
+ORD0222,2026-02-11,Chicken Wrap,Main Course,159,1,435,Takeaway,Cashier,13:10
+ORD0222,2026-02-11,French Fries,Side,89,1,435,Takeaway,Cashier,13:10
+ORD0222,2026-02-11,Pepsi,Beverage,49,2,435,Takeaway,Cashier,13:10
+ORD0222,2026-02-11,Vanilla Ice Cream,Dessert,89,1,435,Takeaway,Cashier,13:10
+ORD0223,2026-02-12,Farmhouse Pizza,Main Course,329,1,646,Dine-in,Cashier,15:10
+ORD0223,2026-02-12,Garlic Bread,Side,99,1,646,Dine-in,Cashier,15:10
+ORD0223,2026-02-12,Lemonade,Beverage,69,1,646,Dine-in,Cashier,15:10
+ORD0223,2026-02-12,Cheesecake,Dessert,149,1,646,Dine-in,Cashier,15:10
+ORD0224,2026-02-13,Chicken Nuggets,Side,129,1,316,Online,Online,11:45
+ORD0224,2026-02-13,French Fries,Side,89,1,316,Online,Online,11:45
+ORD0224,2026-02-13,Pepsi,Beverage,49,1,316,Online,Online,11:45
+ORD0224,2026-02-13,Coca-Cola,Beverage,49,1,316,Online,Online,11:45
+ORD0225,2026-02-14,Hot Dog,Main Course,139,1,407,Takeaway,Cashier,20:00
+ORD0225,2026-02-14,Onion Rings,Side,109,1,407,Takeaway,Cashier,20:00
+ORD0225,2026-02-14,Mineral Water,Beverage,30,1,407,Takeaway,Cashier,20:00
+ORD0225,2026-02-14,Chocolate Cake,Dessert,129,1,407,Takeaway,Cashier,20:00
+ORD0226,2026-02-15,Club Sandwich,Main Course,169,1,456,Online,Online,13:40
+ORD0226,2026-02-15,Onion Rings,Side,109,1,456,Online,Online,13:40
+ORD0226,2026-02-15,Iced Tea,Beverage,79,1,456,Online,Online,13:40
+ORD0226,2026-02-15,Chocolate Brownie,Dessert,99,1,456,Online,Online,13:40
+ORD0227,2026-02-16,Chicken Wrap,Main Course,159,1,386,Dine-in,Waiter,15:50
+ORD0227,2026-02-16,French Fries,Side,89,1,386,Dine-in,Waiter,15:50
+ORD0227,2026-02-16,Pepsi,Beverage,49,1,386,Dine-in,Waiter,15:50
+ORD0227,2026-02-16,Vanilla Ice Cream,Dessert,89,1,386,Dine-in,Waiter,15:50
+ORD0228,2026-02-17,Farmhouse Pizza,Main Course,329,1,646,Online,Online,19:20
+ORD0228,2026-02-17,Garlic Bread,Side,99,1,646,Online,Online,19:20
+ORD0228,2026-02-17,Lemonade,Beverage,69,1,646,Online,Online,19:20
+ORD0228,2026-02-17,Cheesecake,Dessert,149,1,646,Online,Online,19:20
+ORD0229,2026-02-18,Chicken Nuggets,Side,129,1,405,Takeaway,Cashier,20:30
+ORD0229,2026-02-18,French Fries,Side,89,2,405,Takeaway,Cashier,20:30
+ORD0229,2026-02-18,Pepsi,Beverage,49,1,405,Takeaway,Cashier,20:30
+ORD0229,2026-02-18,Coca-Cola,Beverage,49,1,405,Takeaway,Cashier,20:30
+ORD0230,2026-02-19,Hot Dog,Main Course,139,1,407,Takeaway,Cashier,19:50
+ORD0230,2026-02-19,Onion Rings,Side,109,1,407,Takeaway,Cashier,19:50
+ORD0230,2026-02-19,Mineral Water,Beverage,30,1,407,Takeaway,Cashier,19:50
+ORD0230,2026-02-19,Chocolate Cake,Dessert,129,1,407,Takeaway,Cashier,19:50
+ORD0231,2026-02-20,Club Sandwich,Main Course,169,1,634,Online,Online,20:50
+ORD0231,2026-02-20,Onion Rings,Side,109,1,634,Online,Online,20:50
+ORD0231,2026-02-20,Iced Tea,Beverage,79,2,634,Online,Online,20:50
+ORD0231,2026-02-20,Chocolate Brownie,Dessert,99,2,634,Online,Online,20:50
+ORD0232,2026-02-21,Chicken Wrap,Main Course,159,1,386,Online,Online,18:30
+ORD0232,2026-02-21,French Fries,Side,89,1,386,Online,Online,18:30
+ORD0232,2026-02-21,Pepsi,Beverage,49,1,386,Online,Online,18:30
+ORD0232,2026-02-21,Vanilla Ice Cream,Dessert,89,1,386,Online,Online,18:30
+ORD0233,2026-02-22,Farmhouse Pizza,Main Course,329,1,646,Takeaway,Cashier,18:15
+ORD0233,2026-02-22,Garlic Bread,Side,99,1,646,Takeaway,Cashier,18:15
+ORD0233,2026-02-22,Lemonade,Beverage,69,1,646,Takeaway,Cashier,18:15
+ORD0233,2026-02-22,Cheesecake,Dessert,149,1,646,Takeaway,Cashier,18:15
+ORD0234,2026-02-23,Chicken Nuggets,Side,129,1,454,Online,Online,21:50
+ORD0234,2026-02-23,French Fries,Side,89,2,454,Online,Online,21:50
+ORD0234,2026-02-23,Pepsi,Beverage,49,1,454,Online,Online,21:50
+ORD0234,2026-02-23,Coca-Cola,Beverage,49,2,454,Online,Online,21:50
+ORD0235,2026-02-24,Hot Dog,Main Course,139,1,407,Takeaway,Cashier,19:30
+ORD0235,2026-02-24,Onion Rings,Side,109,1,407,Takeaway,Cashier,19:30
+ORD0235,2026-02-24,Mineral Water,Beverage,30,1,407,Takeaway,Cashier,19:30
+ORD0235,2026-02-24,Chocolate Cake,Dessert,129,1,407,Takeaway,Cashier,19:30
+ORD0236,2026-02-25,Club Sandwich,Main Course,169,1,456,Online,Online,18:45
+ORD0236,2026-02-25,Onion Rings,Side,109,1,456,Online,Online,18:45
+ORD0236,2026-02-25,Iced Tea,Beverage,79,1,456,Online,Online,18:45
+ORD0236,2026-02-25,Chocolate Brownie,Dessert,99,1,456,Online,Online,18:45
+ORD0237,2026-02-26,Chicken Wrap,Main Course,159,1,386,Online,Online,15:10
+ORD0237,2026-02-26,French Fries,Side,89,1,386,Online,Online,15:10
+ORD0237,2026-02-26,Pepsi,Beverage,49,1,386,Online,Online,15:10
+ORD0237,2026-02-26,Vanilla Ice Cream,Dessert,89,1,386,Online,Online,15:10
+ORD0238,2026-02-27,Farmhouse Pizza,Main Course,329,1,646,Online,Online,19:30
+ORD0238,2026-02-27,Garlic Bread,Side,99,1,646,Online,Online,19:30
+ORD0238,2026-02-27,Lemonade,Beverage,69,1,646,Online,Online,19:30
+ORD0238,2026-02-27,Cheesecake,Dessert,149,1,646,Online,Online,19:30
+ORD0239,2026-02-28,Chicken Nuggets,Side,129,1,365,Dine-in,Waiter,19:40
+ORD0239,2026-02-28,French Fries,Side,89,1,365,Dine-in,Waiter,19:40
+ORD0239,2026-02-28,Pepsi,Beverage,49,1,365,Dine-in,Waiter,19:40
+ORD0239,2026-02-28,Coca-Cola,Beverage,49,2,365,Dine-in,Waiter,19:40
+ORD0240,2026-03-01,Hot Dog,Main Course,139,1,407,Online,Online,13:20
+ORD0240,2026-03-01,Onion Rings,Side,109,1,407,Online,Online,13:20
+ORD0240,2026-03-01,Mineral Water,Beverage,30,1,407,Online,Online,13:20
+ORD0240,2026-03-01,Chocolate Cake,Dessert,129,1,407,Online,Online,13:20
+ORD0241,2026-03-02,Club Sandwich,Main Course,169,1,456,Dine-in,Waiter,21:30
+ORD0241,2026-03-02,Onion Rings,Side,109,1,456,Dine-in,Waiter,21:30
+ORD0241,2026-03-02,Iced Tea,Beverage,79,1,456,Dine-in,Waiter,21:30
+ORD0241,2026-03-02,Chocolate Brownie,Dessert,99,1,456,Dine-in,Waiter,21:30
+ORD0242,2026-03-03,Chicken Wrap,Main Course,159,1,386,Online,Online,20:20
+ORD0242,2026-03-03,French Fries,Side,89,1,386,Online,Online,20:20
+ORD0242,2026-03-03,Pepsi,Beverage,49,1,386,Online,Online,20:20
+ORD0242,2026-03-03,Vanilla Ice Cream,Dessert,89,1,386,Online,Online,20:20
+ORD0243,2026-03-04,Farmhouse Pizza,Main Course,329,1,646,Online,Online,15:40
+ORD0243,2026-03-04,Garlic Bread,Side,99,1,646,Online,Online,15:40
+ORD0243,2026-03-04,Lemonade,Beverage,69,1,646,Online,Online,15:40
+ORD0243,2026-03-04,Cheesecake,Dessert,149,1,646,Online,Online,15:40
+ORD0244,2026-03-05,Chicken Nuggets,Side,129,1,316,Online,Online,21:15
+ORD0244,2026-03-05,French Fries,Side,89,1,316,Online,Online,21:15
+ORD0244,2026-03-05,Pepsi,Beverage,49,1,316,Online,Online,21:15
+ORD0244,2026-03-05,Coca-Cola,Beverage,49,1,316,Online,Online,21:15
+ORD0245,2026-03-06,Hot Dog,Main Course,139,1,407,Dine-in,Waiter,19:40
+ORD0245,2026-03-06,Onion Rings,Side,109,1,407,Dine-in,Waiter,19:40
+ORD0245,2026-03-06,Mineral Water,Beverage,30,1,407,Dine-in,Waiter,19:40
+ORD0245,2026-03-06,Chocolate Cake,Dessert,129,1,407,Dine-in,Waiter,19:40
+ORD0246,2026-03-07,Club Sandwich,Main Course,169,1,456,Takeaway,Cashier,15:40
+ORD0246,2026-03-07,Onion Rings,Side,109,1,456,Takeaway,Cashier,15:40
+ORD0246,2026-03-07,Iced Tea,Beverage,79,1,456,Takeaway,Cashier,15:40
+ORD0246,2026-03-07,Chocolate Brownie,Dessert,99,1,456,Takeaway,Cashier,15:40
+ORD0247,2026-03-08,Chicken Wrap,Main Course,159,1,386,Online,Online,19:30
+ORD0247,2026-03-08,French Fries,Side,89,1,386,Online,Online,19:30
+ORD0247,2026-03-08,Pepsi,Beverage,49,1,386,Online,Online,19:30
+ORD0247,2026-03-08,Vanilla Ice Cream,Dessert,89,1,386,Online,Online,19:30
+ORD0248,2026-03-09,Farmhouse Pizza,Main Course,329,1,745,Dine-in,Cashier,19:45
+ORD0248,2026-03-09,Garlic Bread,Side,99,2,745,Dine-in,Cashier,19:45
+ORD0248,2026-03-09,Lemonade,Beverage,69,1,745,Dine-in,Cashier,19:45
+ORD0248,2026-03-09,Cheesecake,Dessert,149,1,745,Dine-in,Cashier,19:45
+ORD0249,2026-03-10,Chicken Nuggets,Side,129,2,534,Dine-in,Cashier,19:20
+ORD0249,2026-03-10,French Fries,Side,89,2,534,Dine-in,Cashier,19:20
+ORD0249,2026-03-10,Pepsi,Beverage,49,1,534,Dine-in,Cashier,19:20
+ORD0249,2026-03-10,Coca-Cola,Beverage,49,1,534,Dine-in,Cashier,19:20
+ORD0250,2026-03-11,Hot Dog,Main Course,139,1,407,Dine-in,Waiter,18:20
+ORD0250,2026-03-11,Onion Rings,Side,109,1,407,Dine-in,Waiter,18:20
+ORD0250,2026-03-11,Mineral Water,Beverage,30,1,407,Dine-in,Waiter,18:20
+ORD0250,2026-03-11,Chocolate Cake,Dessert,129,1,407,Dine-in,Waiter,18:20
